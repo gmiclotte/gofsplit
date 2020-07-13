@@ -1,0 +1,10 @@
+
+
+package of // import "github.com/gmiclotte/gofsplit/of"
+
+type Author struct{ ... }
+type ListState struct{ ... }
+type MediumInfo struct{ ... }
+type MediumJSON struct{ ... }
+type Response struct{ ... }
+type SubscriptionBundle struct{ ... }

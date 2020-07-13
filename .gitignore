@@ -1,0 +1,5 @@
+gofsplit
+*.html
+output/
+.idea
+cmd.sh
